@@ -1,0 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Orbitron:wght@500&family=Poppins:ital,wght@0,300;1,400&family=Sometype+Mono:ital@1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Orbitron:wght@500&family=Playpen+Sans:wght@300&family=Poppins:ital,wght@0,300;1,400&family=Sometype+Mono:ital@1&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
