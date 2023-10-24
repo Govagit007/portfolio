@@ -37,7 +37,7 @@ const Projects = () => {
           </h1>
         </m.div>
         <m.div
-          className=" project w-full md:w-1/4 h-1/3 flex flex-col items-center relative bg-slate-200 rounded-xl hover:rounded-none overflow-hidden"
+          className=" project w-full md:w-1/4 h-1/4 flex flex-col items-center relative bg-slate-200 rounded-xl hover:rounded-none overflow-hidden"
           initial={{ x: "200%" }}
           animate={{ x: "0%" }}
           transition={{ duration: 0.9, ease: "easeOut" }}
