@@ -50,9 +50,7 @@ const Home = () => {
           about creating responsive web applications.
           <span className="hidden lg:inline text:md">
             My expertise includes turning ideas into scalable, user-friendly,
-            and visually appealing digital solutions.My expertise includes
-            turning ideas into scalable, user-friendly, and visually appealing
-            digital solutions.
+            and visually appealing digital solutions.
           </span>
         </p>
       </div>
