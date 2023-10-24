@@ -15,9 +15,9 @@ const Projects = () => {
       <div className="md:text-2xl mt-4 md:mt-10">
         <h1>Projects and Experience</h1>
       </div>
-      <div className=" w-full sm:h-full flex flex-col md:-translate-y-16 md:flex-row sm:flex-wrap gap-10 p-4 items-center justify-center">
+      <div className=" w-full h-full flex flex-col md:-translate-y-16 md:flex-row  gap-8 p-8 items-center justify-center">
         <m.div
-          className=" project w-1/2 md:w-1/4  h-1/3 flex flex-col items-center relative bg-slate-200 rounded-xl hover:rounded-none overflow-hidden"
+          className=" project w-1/2 md:w-1/4  h-1/3 flex flex-col flex-wrap items-center relative bg-slate-200 rounded-xl hover:rounded-none overflow-hidden"
           initial={{ x: "200%" }}
           animate={{ x: "0%" }}
           transition={{ duration: 1, ease: "easeOut" }}
