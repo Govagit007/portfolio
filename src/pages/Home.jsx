@@ -1,4 +1,4 @@
-import pic from "../logos/pp1.jpg";
+import pic from "../logos/p-11.png";
 import AttachmentIcon from "@mui/icons-material/Attachment";
 import { motion as m } from "framer-motion";
 
@@ -48,7 +48,7 @@ const Home = () => {
           <span className="font-bold text-xl">MERN stack </span>. With a strong
           background in both front-end and back-end development, I'm passionate
           about creating responsive web applications.
-          <span className="hidden lg:inline text:md">
+          <span className="hidden xl:inline text:md">
             My expertise includes turning ideas into scalable, user-friendly,
             and visually appealing digital solutions.
           </span>
